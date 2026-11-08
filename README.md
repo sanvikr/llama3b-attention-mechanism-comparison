@@ -1,0 +1,1 @@
+This project investigates how different attention mechanisms affect the inference efficiency of LLMs. Using Meta's Llama 3.2 3B architecture, it compares Multi-Head Attention (MHA) and Grouped-Query Attention (GQA) to examine how their decode latency, computational costs, and memory usage change as sequence length increases.
